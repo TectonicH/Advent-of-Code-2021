@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC Day 1", "AoC Day 1.csproj", "{A166BB4C-002E-4554-AF33-A20176816635}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoCFramework", "AoCFramework\AoCFramework.csproj", "{0C2333B6-804C-4063-923E-FB26A3149F54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A166BB4C-002E-4554-AF33-A20176816635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A166BB4C-002E-4554-AF33-A20176816635}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A166BB4C-002E-4554-AF33-A20176816635}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A166BB4C-002E-4554-AF33-A20176816635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2333B6-804C-4063-923E-FB26A3149F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2333B6-804C-4063-923E-FB26A3149F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2333B6-804C-4063-923E-FB26A3149F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2333B6-804C-4063-923E-FB26A3149F54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
